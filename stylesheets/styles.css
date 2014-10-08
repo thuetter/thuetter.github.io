@@ -185,8 +185,8 @@ footer {
 
 
 #menu {
-  bg-color: #000;
   padding:3px 3px 3px 10px;
+  border-style: none;
 }
 
 #menuitem: {
