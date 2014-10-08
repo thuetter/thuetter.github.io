@@ -206,6 +206,11 @@ footer {
   //bg-color highlighted
 }
 
+#menuitem a {
+  display:block;
+  margin: 3px 3px 3px 10px;
+}
+
 
 @media print, screen and (max-width: 960px) {
 
