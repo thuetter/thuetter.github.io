@@ -183,21 +183,7 @@ footer {
   bottom:50px;
 }
 
-th:first-child {
-    border-radius: 6px 0 0 0;
-}
-
-th:last-child {
-    border-radius: 0 6px 0 0;
-}
-
-th:only-child{
-    border-radius: 6px 6px 0 0;
-}
-
 #menu {
-  border-collapse: collapse; /* IE7 and lower */
-  border-spacing: 0;
   padding:3px 3px 3px 10px;
   color: #111 !important;
   border-style: none;
