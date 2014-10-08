@@ -186,15 +186,16 @@ footer {
 
 #menu {
   padding:3px 3px 3px 10px;
+  color: #999 !important;
   border-style: none;
 }
 
 #menuitem {
   /* border-bottom: 1px solid #999 !important; */
-  border-top: 1px solid #999 !important;
+  border-top: 1px solid #e5e5e5 !important;
 }
 #menuitem:hover {
-  bg-color: #999 !important;
+  bg-color: #e5e5e5 !important;
   color: #fff !important;
 }
 #menuitem:active {
