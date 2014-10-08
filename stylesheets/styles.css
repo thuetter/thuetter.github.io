@@ -186,17 +186,17 @@ footer {
 
 #menu {
   padding:3px 3px 3px 10px;
-  color: #999 !important;
+  color: #111 !important;
   border-style: none;
 }
 
 #menuitem {
-  /* border-bottom: 1px solid #999 !important; */
   border-top: 1px solid #e5e5e5 !important;
+  color: #111;
 }
 #menuitem:hover {
-  bg-color: #e5e5e5 !important;
-  color: #fff !important;
+  background-color: #e5e5e5 !important;
+  /*color: #fff !important;*/
 }
 #menuitem:active {
   //bg-color highlighted
