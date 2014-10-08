@@ -205,13 +205,13 @@ footer {
   background-color: #e5e5e5 !important;
   /*color: #fff !important;*/
 }
-#menuitem:active {
-  //bg-color highlighted
-}
 
 #menuitem a {
   display:block;
   padding: 3px 3px 3px 10px;
+}
+#menuitem a:hover {
+  font-weight: bold;
 }
 #menuitem.lastitem{
   border-bottom: 1px solid #e5e5e5 !important;
