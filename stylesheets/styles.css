@@ -212,8 +212,7 @@ footer {
 
 #menuitem a {
   display:block;
-  font-size: 20px;
-  /*margin: 3px 3px 3px 10px;*/
+  padding: 3px 3px 3px 10px;
 }
 #menuitem.lastitem{
   border-bottom: 1px solid #e5e5e5 !important;
