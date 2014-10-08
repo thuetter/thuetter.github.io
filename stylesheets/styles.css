@@ -183,6 +183,11 @@ footer {
   bottom:50px;
 }
 
+#infobox {
+  margin-top: -10px;
+  margin-bottom: 50px;
+}
+
 #menu {
   padding:3px 3px 3px 10px;
   color: #111 !important;
