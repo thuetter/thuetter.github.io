@@ -186,16 +186,17 @@ footer {
 
 #menu {
   bg-color: #000;
-  border-bottom: 1px solid #999;
-  border-top: 1px solid #999;
   padding:3px 3px 3px 10px;
 }
 
+#menuitem: {
+  border-bottom: 1px solid #999;
+  border-top: 1px solid #999;
+}
 #menuitem:hover {
   bg-color: #999;
   color: #fff;
 }
-
 #menuitem:active {
   //bg-color highlighted
 }
