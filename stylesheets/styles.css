@@ -190,16 +190,18 @@ footer {
 #infobox {
   margin-top: -10px;
   margin-bottom: 35px;
+  color: #444;
 }
 
 #menu {
-  color: #111 !important;
+  color: #222 !important;
   border-style: none;
+  padding-right: 20px;
 }
 
 #menuitem {
   border-top: 1px solid #e5e5e5 !important;
-  color: #111;
+  color: #222;
 }
 #menuitem:hover {
   background-color: #e5e5e5 !important;
@@ -208,6 +210,7 @@ footer {
 
 #menuitem a {
   display:block;
+  font-weight: bold;
   padding: 3px 3px 3px 10px;
 }
 #menuitem a:hover {
@@ -215,6 +218,27 @@ footer {
 }
 #menuitem.lastitem{
   border-bottom: 1px solid #e5e5e5 !important;
+}
+
+.no-margin-bottom {
+  margin-bottom: 10px;
+}
+
+.text-small {
+  font-size: 12px;
+  margin-top: -5px;
+  margin-bottom: -8px;
+  color: #393939;
+}
+.text-large {
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: -10px;
+  color: #393939;
+}
+.text-p {
+  line-height: 1.2;
+  margin-top: 10px;
 }
 
 /**************************************************************/
