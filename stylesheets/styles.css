@@ -190,7 +190,7 @@ footer {
 }
 
 #menuitem {
-  border-bottom: 1px solid #999 !important;
+  /* border-bottom: 1px solid #999 !important; */
   border-top: 1px solid #999 !important;
 }
 #menuitem:hover {
